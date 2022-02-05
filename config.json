@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xB8A0bb102d6f2092b58b486C2a2a7474B7b25D82",
+  "SCAN_LINK": "https://etherscan.io/token/0xb8a0bb102d6f2092b58b486c2a2a7474b7b25d82",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "ETH",
+    "ID": 137
+  },
+  "NFT_NAME": "NFTski",
+  "SYMBOL": "NFTSKI",
+  "MAX_SUPPLY": 6669,
+  "WEI_COST": 75000000000000000,
+  "DISPLAY_COST": 0.01,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/NFTski",
+  "SHOW_BACKGROUND": true
+}
